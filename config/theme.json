@@ -1,0 +1,14 @@
+{
+  "config": {
+    "footerInfo": "Powered by Hve Notes",
+    "postPageSize": 10,
+    "archivesPageSize": 50,
+    "showFeatureImage": true,
+    "siteDescription": "温故而知新",
+    "siteName": "Hve Notes",
+    "themeName": "notes",
+    "dateFormat": "YYYY-MM-DD",
+    "postUrlFormat": "SLUG",
+    "tagUrlFormat": "SHORT_ID"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "config": {
+    "branch": "master",
+    "domain": "https://mingzhizu.github.io",
+    "email": "minzhi_whu@163.com",
+    "platform": "github",
+    "repository": "Blog",
+    "token": "556b974af0b12d004228c9058e1815024a2c7822",
+    "username": "Mingzhizu"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
