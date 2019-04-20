@@ -1,12 +1,12 @@
 {
   "config": {
     "branch": "master",
-    "domain": "https://mingzhizu.github.io",
+    "domain": " https://mingzhizu.github.io",
     "email": "minzhi_whu@163.com",
     "platform": "github",
-    "repository": "Blog",
+    "repository": "Mingzhizu.github.io",
     "token": "556b974af0b12d004228c9058e1815024a2c7822",
-    "username": "Mingzhizu"
+    "username": "Eiji"
   },
   "comment": {
     "commentPlatform": "gitalk",
